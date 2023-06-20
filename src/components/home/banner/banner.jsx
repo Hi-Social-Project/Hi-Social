@@ -1,5 +1,5 @@
 import { bannerImage } from "../../../assets/img/index";
-import { IoIosArrowForward } from "react-icons/Io";
+import { IoIosArrowForward } from "/react-icons/Io";
 import HighligtBanner from "./highligt-banner/highligtBanner";
 
 const Banner = () => {
