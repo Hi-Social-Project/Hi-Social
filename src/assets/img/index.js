@@ -1,0 +1,10 @@
+import logo from "./logo.png";
+import shoes from "./shoes.png";
+import titik from "./titik.png";
+import fruit from "./fruit.png";
+import lotion from "./lotion.png";
+import ourWorkImg from "./ourWorkImg.png";
+import bannerImage from "./bannerImage.png";
+import experienceImg from "./experienceImg.png";
+
+export { shoes, titik, lotion, ourWorkImg, bannerImage, experienceImg, fruit, logo };
