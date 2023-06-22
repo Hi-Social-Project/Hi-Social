@@ -1,12 +1,14 @@
-import { Banner, OurWork, SeveralService, OurProject } from "../../components/home/index";
+import { Banner, OurWork, SeveralService, OurProject, Testi, Pricing } from "../../components/home/index";
 
 const Home = () => {
   return (
-    <div className="pt-28 md:pt-30 lg:pt-14">
+    <div className="pt-36 md:pt-30 lg:pt-20">
       <Banner />
       <OurWork />
       <SeveralService />
       <OurProject />
+      <Testi />
+      <Pricing />
     </div>
   );
 };

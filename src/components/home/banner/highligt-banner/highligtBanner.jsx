@@ -1,6 +1,6 @@
 const HighligtBanner = () => {
   return (
-    <div className="mt-2 flex justify-center font-plus-jakarta-sans md:mt-8 lg:-mt-16">
+    <div className="mt-2 flex justify-center font-plus-jakarta-sans md:mt-8 lg:-mt-14">
       <div className=" bg-blue-500 text-white w-11/12 rounded-3xl py-5 px-5 md:py-8 md:px-10 md:w-full md:mx-2 lg:w-4/5 grid grid-cols-1 items-center justify-items-center md:grid-cols-4 md:justify-items-stretch md:space-x-10 lg:space-x-36">
         <p className="font-clash-display text-xl font-medium md:text-2xl md:w-48 lg:text-4xl lg:w-96">This is our HiSocial Digital.</p>
         <div className="flex flex-col md:flex-row lg:space-x-7">

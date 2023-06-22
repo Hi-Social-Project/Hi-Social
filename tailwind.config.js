@@ -8,10 +8,13 @@ export default {
         "clash-display": "Clash Display",
       },
       width: {
-        "w-custom": "31.063rem",
+        58: "14.5rem",
+        98: "31.063rem",
       },
       height: {
-        "h-custom": "37.313rem",
+        66: "17rem",
+        84: "22rem",
+        99: "37.313rem",
       },
     },
   },

@@ -5,10 +5,10 @@ import ListExperience from "./list-experience/listExperience";
 
 const OurWork = () => {
   return (
-    <section className="mt-8 mb-8 px-5 md:mt-16 lg:mt-28 flex justify-center">
+    <section className="mt-16 mb-8 px-5 md:mt-24 lg:mt-32 flex justify-center">
       <div className="w-80 md:w-auto md:grid lg:w-10/12 md:grid-cols-2 md:gap-x-10 md:items-center lg:gap-x-14">
         <div>
-          <h1 className="mb-7 font-clash-display text-2xl font-medium md:text-3xl lg:text-5xl">We Create Impactful Experience Stories </h1>
+          <h1 className="mb-3 font-clash-display text-2xl font-medium md:text-3xl lg:mb-4 lg:text-5xl">We Create Impactful Experience Stories </h1>
 
           <ListExperience
             title="Strategi Marketing"
