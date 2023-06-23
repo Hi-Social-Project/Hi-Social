@@ -1,0 +1,51 @@
+{
+  "lang": {
+    "id": "Indonesian",
+    "en": "English"
+  },
+  "Home": {
+    "banner": {
+      "title": "We provide and deliver digital solutions as part of your team",
+      "descript": "We Are HiSocial Digital, Marketing and Creative Design in Yogyakarta, Indonesia. Let's create the best product experience with our experienced members",
+      "highlight-banner": "This is our HiSocial Digital.",
+      "highlight-1": "Succesfull Project",
+      "highlight-2": "Super Happy Client",
+      "highlight-3": "Year of Experience"
+    },
+    "our-work": {
+      "text-one": "We Create Impactful Experience Stories ",
+      "title-1": "Strategi Marketing",
+      "descript-1": "Custom digital marketing and creative strategies informed by strong judgment & your business deserves to get better than prepackaged strategies",
+      "title-2": "Branding Identity",
+      "descript-2": "See the progress we're making & what's driving results, at any time, we keep you informed transparently on a consistent basis and keep you updated.",
+      "title-3": "Breaktrough",
+      "descript-3": "Services that match your greatest ROI, moving in the same direction towards growth goals better than ever. And deliver modern, tangible breakthroughs."
+    },
+    "several-services": {
+      "title": "We Offer Several Service For You",
+      "descript": "We have outstanding experience across a wide range of sectors with work spanning geography, scale and scope. No challenge is too big or messy, familiar or unfamiliar, vast or special."
+    },
+    "our-project": {
+      "title": "Our Project Have Been Done",
+      "brand-puma": "Puma",
+      "brand-fruit": "Fruit & Saladies",
+      "brand-lotion": "Ordinary Skincare",
+      "puma": "Maximize Your Sport Performance & Stay Stylish w/ PUMA's Latest Collection. Free Shipping. Shop High Quality Shoes, Sports Gear & Accessories @PUMA Indonesia Official Online Store.",
+      "fruit": "In common language usage, fruit normally means the seed-associated fleshy structures (or produce) of plants that typically are sweet or sour and edible in the raw state, such as apples, bananas, grapes, lemons, oranges, and strawberries",
+      "lotion": "Natural Moisturizing Factors + Beta Glucan is a lightweight gel moisturizer designed to provide all-day hydration after just one application.* It is formulated with natural moisturizing factors,",
+      "text-button": "Explore More     +"
+    },
+    "testi": {
+      "title": "Our Partner's Experience",
+      "title-2": "Builds a Wider Area & Sales",
+      "testi-text": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour. or randomised words which don't look even slightly believable",
+      "job": "Creative Marketing at Puma Indonesia"
+    },
+    "pricing": {
+      "title": "Pricing & Plan for Everyone.",
+      "descript": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
+      "button-text": "Contact Admin",
+      "card-descript": "There are many variations of passages of Lorem Ipsum available,"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "lang": {
+    "id": "Bahasa Indonesia",
+    "en": "Bahasa Inggris"
+  },
+  "Home": {
+    "banner": {
+      "title": "Kami menyediakan dan memberikan solusi digital sebagai bagian dari tim Anda",
+      "descript": "Kami adalah HiSocial Digital, Marketing dan Creative Design di Yogyakarta, Indonesia. Mari ciptakan pengalaman produk terbaik dengan anggota kami yang berpengalaman",
+      "highlight-banner": "Ini adalah HiSocial Digital kami.",
+      "highlight-1": "Proyek Sukses",
+      "highlight-2": "Klien yang sangat senang",
+      "highlight-3": "Tahun Pengalaman"
+    },
+    "our-work": {
+      "text-one": "Kami Menciptakan Cerita Pengalaman yang Berdampak ",
+      "title-1": "Strategi Pemasaran",
+      "descript-1": "Strategi pemasaran digital dan kreatif khusus yang diinformasikan oleh penilaian yang kuat & bisnis Anda layak mendapatkan yang lebih baik daripada strategi yang sudah dikemas",
+      "title-2": "Identitas Merek",
+      "descript-2": "Lihat kemajuan yang kami buat & apa yang mendorong hasil, setiap saat, kami memberi Anda informasi secara transparan secara konsisten dan terus memberi Anda informasi terbaru.",
+      "title-3": "Terobosan baru",
+      "descript-3": "Layanan yang cocok  untuk ROI terbesar Anda, bergerak ke arah yang sama menuju sasaran pertumbuhan yang lebih baik dari sebelumnya. Serta memberikan terobosan yang modern dan nyata."
+    },
+    "several-services": {
+      "title": "Kami Menawarkan Beberapa Layanan Untuk Anda",
+      "descript": "Kami memiliki pengalaman yang luar biasa di berbagai sektor dengan pekerjaan yang mencakup geografi, skala, dan ruang lingkup. Tidak ada tantangan yang terlalu besar atau berantakan, familiar atau asing, luas atau khusus."
+    },
+    "our-project": {
+      "title": "Proyek Yang Sudah kami Selesaikan",
+      "brand-puma": "Puma",
+      "brand-fruit": "Buah & Salad",
+      "brand-lotion": "Perawatan Kulit Biasa",
+      "puma": "Maksimalkan Performa Olahraga Anda & Tetap Bergaya dengan Koleksi Terbaru PUMA. Gratis Ongkos Kirim. Belanja Sepatu, Perlengkapan & Aksesoris Olahraga Berkualitas Tinggi @PUMA Indonesia Official Online Store.",
+      "fruit": "Dalam penggunaan bahasa yang umum, buah biasanya berarti struktur berdaging yang terkait dengan biji (atau hasil) tanaman yang biasanya manis atau asam dan dapat dimakan dalam keadaan mentah, seperti apel, pisang, anggur, lemon, jeruk, dan stroberi",
+      "lotion": "Faktor Pelembab Alami + Beta Glucan adalah pelembab gel ringan yang dirancang untuk memberikan hidrasi sepanjang hari hanya dalam satu kali pemakaian, yang diformulasikan dengan faktor pelembab alami,",
+      "text-button": "Jelajahi Lebih Lanjut      +"
+    },
+    "testi": {
+      "title": "Pengalaman Mitra Kami",
+      "title-2": "Membangun Area & Penjualan yang Lebih Luas",
+      "testi-text": "Ada banyak variasi bagian dari Lorem Ipsum yang tersedia, tetapi sebagian besar telah mengalami perubahan dalam beberapa bentuk, dengan menyuntikkan humor. atau kata-kata acak yang bahkan tidak terlihat sedikit pun masuk akal",
+      "job": "Pemasaran Kreatif di Puma Indonesia"
+    },
+    "pricing": {
+      "title": "Harga & Paket untuk Semua Orang.",
+      "descript": "Ada banyak variasi bagian dari Lorem Ipsum yang tersedia, tetapi sebagian besar telah mengalami perubahan dalam beberapa bentuk, dengan menyuntikkan humor.",
+      "button-text": "Hubungi Admin",
+      "card-descript": "Ada banyak variasi bagian dari Lorem Ipsum yang tersedia,"
+    }
+  }
+}
