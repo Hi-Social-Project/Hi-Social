@@ -12,7 +12,7 @@ import Category from "./category/category";
 const Footer = () => {
   return (
     <section>
-      <div className="bg-blue-950 flex justify-center p-5 items-center font-plus-jakarta-sans lg:p-24">
+      <div className="bg-blue-950 flex justify-center p-5 items-center font-plus-jakarta-sans md:mt-24 lg:mt-36 lg:p-24">
         <div className="grid grid-cols-2 md:justify-items-center lg:grid-cols-4 lg:gap-8 ">
           <div className="flex space-x-2 md:space-x-3 items-center lg:items-start ">
             <img src={logoFooter} className="h-16 md:h-20 lg:h-auto" />

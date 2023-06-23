@@ -13,13 +13,13 @@ const Banner = () => {
             <p className="text-sm my-7 text-justify md:text-base lg:text-lg lg:my-10">
               Kami Adalah HiSocial Digital, Pemasaran dan Desain Kreatif di Yogyakarta, Indonesia. Mari ciptakan pengalaman produk terbaik dengan anggota kami yang berpengalaman
             </p>
-            <button className="btn-blue-rounded-full flex  items-center mt-3 text-xs font-semibold md:px-7 md:text-lg lg:mt-8 lg:py-5 lg:mb-5">
+            <button className="btn-blue-rounded-full flex  items-center mt-3 text-xs font-semibold md:px-7 md:text-lg lg:mt-8 lg:py-3 lg:mb-5">
               Get Started <IoIosArrowForward className="bg-white text-black rounded-full ms-2 text-xl" />{" "}
             </button>
           </div>
         </div>
-        <div>
-          <img src={bannerImage} className="lg:h-screen" />
+        <div className="bg-red-500">
+          <img src={bannerImage} className="lg:h-screen lg:w-full" />
         </div>
       </div>
       <HighligtBanner />
