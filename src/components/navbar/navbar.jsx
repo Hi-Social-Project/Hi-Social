@@ -27,7 +27,7 @@ const Navbar = ({ id, en, t }) => {
       >
         <ul className="flex flex-col cursor-pointer lg:flex-row lg:space-x-10 lg:w-auto lg:items-center">
           <li className=" hover:text-gray-400">
-            <Link to="/">Home</Link>
+            <Link to="/Hi-Social">Home</Link>
           </li>
           <li className=" hover:text-gray-400">
             <Link to="service">Service</Link>
