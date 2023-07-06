@@ -20,7 +20,7 @@ const Banner = ({ t }) => {
           <img src={bannerImage} className="lg:h-screen lg:w-full" />
         </div>
       </div>
-      <HighligtBanner t={t} />
+      <HighligtBanner margin="mt-2 md:mt-8 lg:-mt-10" t={t} />
     </div>
   );
 };

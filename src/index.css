@@ -11,3 +11,9 @@ body {
     @apply bg-blue-500 px-3 py-2 rounded-full hover:bg-blue-600 active:bg-blue-700 text-white;
   }
 }
+
+@layer utilities {
+  .gradient-img-service {
+    background: linear-gradient(0deg, #012840d2 0%, rgba(217, 217, 217, 0.184) 83%);
+  }
+}

@@ -3,6 +3,7 @@ import { logo } from "../../assets/img/index";
 import { AiOutlineMenu } from "react-icons/ai";
 import { GrClose } from "react-icons/gr";
 import DropdownLang from "./dropdown-lang/dropdownLang";
+import { Link } from "react-router-dom";
 
 const Navbar = ({ id, en, t }) => {
   const [open, setOpen] = useState(false);
@@ -25,8 +26,12 @@ const Navbar = ({ id, en, t }) => {
         }
       >
         <ul className="flex flex-col cursor-pointer lg:flex-row lg:space-x-10 lg:w-auto lg:items-center">
-          <li className=" hover:text-gray-400">Home</li>
-          <li className=" hover:text-gray-400">Service</li>
+          <li className=" hover:text-gray-400">
+            <Link to="/">Home</Link>
+          </li>
+          <li className=" hover:text-gray-400">
+            <Link to="service">Service</Link>
+          </li>
           <li className=" hover:text-gray-400">Portofolio</li>
           <li className=" hover:text-gray-400 group">
             <span className="lg:px-3">{selecLang === "id" ? t("lang.id") : t("lang.en")}</span>

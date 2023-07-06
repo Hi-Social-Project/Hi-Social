@@ -47,5 +47,21 @@
       "button-text": "Contact Admin",
       "card-descript": "There are many variations of passages of Lorem Ipsum available,"
     }
+  },
+  "Service": {
+    "banner": "All of our dedication is done with heart and research so that our partners achieve their company goals.",
+    "detail-service": "Because work is a dedication to a solution",
+    "service-program": {
+      "title": "Service Program",
+      "list-program": {
+        "list-1": "Social Media Management",
+        "list-2": "Branding Indentity Visual",
+        "list-3": "Logo Branding",
+        "list-4": "Website / Application / System",
+        "list-5": "Digital Marketing Strategy"
+      },
+      "service-program-detail": "Many of our design projects are dedicated to a company or individual, by helping and providing needs for them makes us understand that a design has a sense so that users feel comfortable and interested in buying it."
+    },
+    "project-card": "SEE MORE"
   }
 }

@@ -47,5 +47,21 @@
       "button-text": "Hubungi Admin",
       "card-descript": "Ada banyak variasi bagian dari Lorem Ipsum yang tersedia,"
     }
+  },
+  "Service": {
+    "banner": "Semua dedikasi kami dilakukan dengan hati dan penelitian agar mitra kami dapat mencapai tujuan perusahaan mereka.",
+    "detail-service": "Karena bekerja adalah dedikasi untuk sebuah solusi",
+    "service-program": {
+      "title": "Program Layanan",
+      "list-program": {
+        "list-1": "Manajemen Media Sosial",
+        "list-2": "Indentitas Branding Visual",
+        "list-3": "Branding Logo",
+        "list-4": "Situs web / Aplikasi / Sistem",
+        "list-5": "Strategi Pemasaran Digital"
+      },
+      "service-program-detail": "Banyak project design yang kami dedikasikan untuk sebuah perusahaan atau perorangan, dengan membantu dan memberikan kebutuhan bagi meraka membuat kami mengerti bahwa sebuah design memliki rasa agar pengguna merasa nyaman dan tertarik untuk membelinya."
+    },
+    "project-card": "LIHAT SELENGKAPNYA"
   }
 }

@@ -11,11 +11,11 @@ const SeveralService = ({ t }) => {
         </div>
         <div className="mt-7 grid grid-cols-1 md:mt-9 md:gap-x-12 items-center md:grid-cols-2 lg:mt-12 lg:gap-x-8">
           <div className="order-last">
-            <ListServices number="01." text="Social Media Management" />
-            <ListServices number="02." text="Branding Identity Visual" />
-            <ListServices number="03." text="Logo Branding" />
-            <ListServices number="04." text="Website / Aplikasi / Sistem" />
-            <ListServices number="05." text="Digital Marketing Strategy" />
+            <ListServices number="01." text={t("Service.service-program.list-program.list-1")} />
+            <ListServices number="02." text={t("Service.service-program.list-program.list-2")} />
+            <ListServices number="03." text={t("Service.service-program.list-program.list-3")} />
+            <ListServices number="04." text={t("Service.service-program.list-program.list-4")} />
+            <ListServices number="05." text={t("Service.service-program.list-program.list-5")} />
           </div>
           <CardSeveralService />
         </div>
