@@ -1,5 +1,5 @@
 import { Home, Service } from "./pages/index";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/navbar/navbar";
 import Footer from "./components/footer/footer";
 import { useTranslation } from "react-i18next";
@@ -21,8 +21,8 @@ function App() {
       <Router>
         <Navbar id={handleId} en={handleEn} t={t} />
         <Routes>
-          <Route path="/Hi-Social" element={<Home t={t} />} />
-          <Route path="/Hi-Social/service" element={<Service t={t} />} />
+          <Route path="/" element={<Home t={t} />} />
+          <Route path="/service" element={<Service t={t} />} />
         </Routes>
       </Router>
       <Footer />
