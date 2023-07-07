@@ -22,7 +22,7 @@ function App() {
         <Navbar id={handleId} en={handleEn} t={t} />
         <Routes>
           <Route path="/Hi-Social" element={<Home t={t} />} />
-          <Route path="/service" element={<Service t={t} />} />
+          <Route path="/Hi-Social/service" element={<Service t={t} />} />
         </Routes>
       </Router>
       <Footer />

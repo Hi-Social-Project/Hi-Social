@@ -30,7 +30,7 @@ const Navbar = ({ id, en, t }) => {
             <Link to="/Hi-Social">Home</Link>
           </li>
           <li className=" hover:text-gray-400">
-            <Link to="service">Service</Link>
+            <Link to="Hi-Social/service">Service</Link>
           </li>
           <li className=" hover:text-gray-400">Portofolio</li>
           <li className=" hover:text-gray-400 group">
