@@ -10,7 +10,8 @@
       "highlight-banner": "Ini adalah HiSocial Digital kami.",
       "highlight-1": "Proyek Sukses",
       "highlight-2": "Klien yang sangat senang",
-      "highlight-3": "Tahun Pengalaman"
+      "highlight-3": "Tahun Pengalaman",
+      "started": "Mulai"
     },
     "our-work": {
       "text-one": "Kami Menciptakan Cerita Pengalaman yang Berdampak ",
@@ -63,5 +64,24 @@
       "service-program-detail": "Banyak project design yang kami dedikasikan untuk sebuah perusahaan atau perorangan, dengan membantu dan memberikan kebutuhan bagi meraka membuat kami mengerti bahwa sebuah design memliki rasa agar pengguna merasa nyaman dan tertarik untuk membelinya."
     },
     "project-card": "LIHAT SELENGKAPNYA"
+  },
+  "AboutUs": {
+    "banner": {
+      "title": "Tumbuh Bersama Kami dan Raih Impian Masa Depan yang Lebih Baik",
+      "detail": "Semua dedikasi kami dilakukan dengan hati dan penelitian agar mitra kami dapat mencapai tujuan perusahaan mereka.",
+      "button": "Temukan sekarang"
+    },
+    "vision": {
+      "title": "Visi",
+      "detail": "Perkembangan teknologi digital dan internet sangat berkembang secara pesat. Setiap perusahaan dituntut untuk bisa beradaptasi dengan mendigitalisasikan bisnis mereka. Lewat marketing maupun branding yang kuat dan cocok, maka penjualan juga akan mengalami perkembangan secara pesat pula."
+    },
+    "mision": {
+      "title": "Misi",
+      "detail": "Bila Anda bekerja di agency, Anda akan bertemu dengan banyak orang yang berasal dari latar belakang, posisi, sampai perusahaan yang berbeda-beda. Tentunya, hal ini menjadi kesempatan yang sangat baik untuk membangun dan memperluas networking Anda. Dimana, Anda dapat bekerja sama sekaligus mendapatkan ilmu baru dari mereka."
+    },
+    "btn-read-more": "Baca Selengkapnya",
+    "text": "Lorem Ipsum hanyalah teks tiruan dari industri percetakan dan penyusunan huruf.",
+    "leads": "Temui Para Pemimpin Kami",
+    "started": "Siap untuk memulai?"
   }
 }

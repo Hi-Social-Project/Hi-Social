@@ -1,4 +1,4 @@
-import { Home, Service } from "./pages/index";
+import { Home, Service, AboutUs } from "./pages/index";
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/navbar/navbar";
 import Footer from "./components/footer/footer";
@@ -23,6 +23,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home t={t} />} />
           <Route path="/service" element={<Service t={t} />} />
+          <Route path="/about-us" element={<AboutUs t={t} />} />
         </Routes>
       </Router>
       <Footer />

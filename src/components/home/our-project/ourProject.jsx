@@ -16,7 +16,7 @@ const OurProject = ({ t }) => {
 
           <CardOurProject img={lotion} order="md:order-last" title={t("Home.our-project.brand-lotion")} text={t("Home.our-project.lotion")} />
         </div>
-        <button className="block btn-blue-rounded-full font-medium text-xs h-10 w-full md:hidden">Explore More +</button>
+        <button className="block btn-blue-rounded-full font-medium text-xs h-10 w-full md:hidden">{t("Home.our-project.text-button")}</button>
       </div>
     </section>
   );

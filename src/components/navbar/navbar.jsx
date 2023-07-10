@@ -27,10 +27,19 @@ const Navbar = ({ id, en, t }) => {
       >
         <ul className="flex flex-col cursor-pointer lg:flex-row lg:space-x-10 lg:w-auto lg:items-center">
           <li className=" hover:text-gray-400">
-            <Link to="/">Home</Link>
+            <Link to="/" onClick={() => (window.location.href = "#top")}>
+              Home
+            </Link>
           </li>
           <li className=" hover:text-gray-400">
-            <Link to="service">Service</Link>
+            <Link to="service" onClick={() => (window.location.href = "#top")}>
+              Service
+            </Link>
+          </li>
+          <li className=" hover:text-gray-400">
+            <Link to="about-us" onClick={() => (window.location.href = "#top")}>
+              About Us
+            </Link>
           </li>
           <li className=" hover:text-gray-400">Portofolio</li>
           <li className=" hover:text-gray-400 group">
@@ -49,4 +58,3 @@ const Navbar = ({ id, en, t }) => {
 };
 
 export default Navbar;
-// flex flex-col absolute top-24  py-2 ps-4 w-full shadow-lg

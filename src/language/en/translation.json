@@ -10,7 +10,8 @@
       "highlight-banner": "This is our HiSocial Digital.",
       "highlight-1": "Succesfull Project",
       "highlight-2": "Super Happy Client",
-      "highlight-3": "Year of Experience"
+      "highlight-3": "Year of Experience",
+      "started": "Get Started"
     },
     "our-work": {
       "text-one": "We Create Impactful Experience Stories ",
@@ -63,5 +64,24 @@
       "service-program-detail": "Many of our design projects are dedicated to a company or individual, by helping and providing needs for them makes us understand that a design has a sense so that users feel comfortable and interested in buying it."
     },
     "project-card": "SEE MORE"
+  },
+  "AboutUs": {
+    "banner": {
+      "title": "Grow With us and Achieve The Dream of a Better Future",
+      "detail": "All of our dedication is done with heart and research so that our partners achieve their company goals.",
+      "button": "Find out now"
+    },
+    "vision": {
+      "title": "Vision",
+      "detail": "The development of digital technology and the internet is growing rapidly. Every company is required to adapt by digitizing their business. Through strong and suitable marketing and branding, sales will also experience rapid development."
+    },
+    "mision": {
+      "title": "Mision",
+      "detail": "When you work in an agency, you will meet many people from different backgrounds, positions, and companies. Of course, this is a great opportunity to build and expand your network. Where, you can work together as well as gain new knowledge from them."
+    },
+    "btn-read-more": "Read More",
+    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "leads": "Meet Our Leaders",
+    "started": "Ready to get started?"
   }
 }
