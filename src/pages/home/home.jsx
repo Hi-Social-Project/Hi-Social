@@ -1,15 +1,20 @@
-import { Banner, OurWork, SeveralService, OurProject, Testi, Pricing } from "../../components/home/index";
+import { Banner, OurWork, SeveralService, OurProject, Testi, Pricing, OtherService } from "../../components/home/index";
 
 const Home = ({ t }) => {
   return (
-    <div className="pt-36 md:pt-30 lg:pt-20">
+    <section className="pt-36 md:pt-30 lg:pt-20 flex flex-col items-center justify-center space-y-12 md:space-y-24 lg:space-y-32">
       <Banner t={t} />
-      <OurWork t={t} />
-      <SeveralService t={t} />
-      <OurProject t={t} />
-      <Testi t={t} />
-      <Pricing t={t} />
-    </div>
+      <div className="px-5 flex flex-col items-center md:w-auto lg:w-10/12 space-y-14 md:space-y-24 lg:space-y-32 ">
+        <OurWork t={t} />
+        <div className="md:w-10/12 lg:w-auto space-y-14 md:space-y-24 lg:space-y-32 ">
+          <SeveralService t={t} />
+          <OtherService t={t} />
+          <OurProject t={t} />
+          <Testi t={t} />
+          <Pricing t={t} />
+        </div>
+      </div>
+    </section>
   );
 };
 

@@ -7,19 +7,27 @@ body {
 }
 
 @layer components {
-  .btn-blue-rounded-full {
-    @apply bg-blue-500 px-3 py-2 rounded-full hover:bg-blue-600 active:bg-blue-700 text-white;
+  .btn-outline {
+    @apply bg-white border border-blue-500 text-blue-500 px-3 py-2 hover:bg-blue-500 hover:text-white active:bg-blue-600;
   }
-  .btn-outline-rounded-lg {
-    @apply bg-white border border-blue-500 text-blue-500 px-3 py-2 rounded-lg hover:bg-blue-500 hover:text-white active:bg-blue-600;
+  .btn-blue {
+    @apply bg-blue-500 px-3 py-2  hover:bg-blue-600 active:bg-blue-700 text-white;
   }
-  .btn-blue-rounded-lg {
-    @apply bg-blue-500 px-3 py-2 rounded-2xl hover:bg-blue-600 active:bg-blue-700 text-white;
+  .btn-yellow {
+    @apply bg-yellow-500 px-3 py-2  hover:bg-yellow-600 active:bg-yellow-700 text-white;
+  }
+  .btn-white {
+    @apply bg-white px-3 py-2  hover:bg-gray-100 active:bg-gray-200;
   }
 }
 
 @layer utilities {
-  .gradient-img-service {
-    background: linear-gradient(0deg, #012840d2 0%, rgba(217, 217, 217, 0.184) 83%);
+  .gradient-img-otherService {
+    border-radius: 20px;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.14) 0%, #012840 89.04%);
   }
+  /* .bg-about-banner {
+    background: rgb(90, 238, 255);
+    background: radial-gradient(circle, rgba(90, 238, 255, 0.8576680672268908) 0%, rgba(28, 197, 255, 0.14898459383753504) 100%);
+  } */
 }

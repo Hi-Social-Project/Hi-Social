@@ -1,6 +1,6 @@
+import { lead1, lead2, lead3, lead4, lead5 } from "../../../assets/leaders/index";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination } from "swiper/modules";
-import { lead1, lead2, lead3, lead4, lead5 } from "../../../assets/leaders/index";
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
@@ -8,7 +8,7 @@ import LeaderCardSlider from "./leaders-card/leader-card";
 
 const OurLeaders = ({ t }) => {
   return (
-    <section className="px-5 flex flex-col items-center space-y-8 mb-24 lg:space-y-12 lg:mb-44">
+    <section className="flex flex-col items-center space-y-8 mb-24 lg:space-y-12 lg:mb-44">
       <h1 className=" font-clash-display font-medium text-3xl md:text-4xl lg:text-6xl">{t("AboutUs.leads")}</h1>
       <Swiper
         centeredSlides={true}

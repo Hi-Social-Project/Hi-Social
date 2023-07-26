@@ -1,9 +1,9 @@
 const ListProgram = ({ t }) => {
   return (
-    <section className="border-2 border-black rounded w-40 h-12 md:w-48 md:h-14 lg:w-80 lg:h-20 flex justify-center items-center hover:bg-gray-100 active:bg-gray-200 cursor-pointer">
-      <p className="font-medium text-center text-xs md:text-sm lg:text-2xl">{t}</p>
+    <section className="bg-sky-200 rounded-lg w-40  md:w-48  lg:w-72 h-12 md:h-14 lg:h-20 flex justify-center items-center hover:text-white hover:bg-blue-500 active:bg-blue-600 cursor-pointer">
+      <p className=" text-center text-xs md:text-sm lg:text-xl">{t}</p>
     </section>
   );
 };
-
+// w-40  md:w-48  lg:w-[292px]
 export default ListProgram;

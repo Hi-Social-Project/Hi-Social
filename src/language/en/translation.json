@@ -1,12 +1,9 @@
 {
-  "lang": {
-    "id": "Indonesian",
-    "en": "English"
-  },
   "Home": {
     "banner": {
-      "title": "We provide and deliver digital solutions as part of your team",
-      "descript": "We Are HiSocial Digital, Marketing and Creative Design in Yogyakarta, Indonesia. Let's create the best product experience with our experienced members",
+      "title": "Keep Growing With Forward Thinking With Us",
+      "descript1": "We are HiSocial Digital, Marketing and Creative Design in Yogyakarta, Indonesia. Let's create the best product experience with our experienced members.",
+      "descript2": "Helping you manage your marketing budget more effectively. We can put together a marketing plan that fits your budget and ensure efficient use of funds.",
       "highlight-banner": "This is our HiSocial Digital.",
       "highlight-1": "Succesfull Project",
       "highlight-2": "Super Happy Client",
@@ -26,6 +23,13 @@
       "title": "We Offer Several Service For You",
       "descript": "We have outstanding experience across a wide range of sectors with work spanning geography, scale and scope. No challenge is too big or messy, familiar or unfamiliar, vast or special."
     },
+    "other-service": {
+      "title": "Other Services That We’ve Made",
+      "descript": "We have extensive experience across a wide range of sectors with other work, including cashier systems and digital marketing learning.",
+      "other-service-1": "Sistem Toko (Sisco)",
+      "other-service-2": "Learning Digital Marketing",
+      "btn-text": "Learn More"
+    },
     "our-project": {
       "title": "Our Project Have Been Done",
       "brand-puma": "Puma",
@@ -39,37 +43,105 @@
     "testi": {
       "title": "Our Partner's Experience",
       "title-2": "Builds a Wider Area & Sales",
-      "testi-text": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour. or randomised words which don't look even slightly believable",
+      "testi-text": "Ever since I entrusted my promotional activities to HiScocial Digital, my sales are getting smoother. My convection business has become widely known by customers from various circles, this is beyond my expectations. May the blessings always be for HiScocial Digital.",
       "job": "Creative Marketing at Puma Indonesia"
     },
     "pricing": {
       "title": "Pricing & Plan for Everyone.",
-      "descript": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
+      "descript": "You can choose a package that suits your social media management needs, or you can contact them for other related services.",
       "button-text": "Contact Admin",
-      "card-descript": "There are many variations of passages of Lorem Ipsum available,"
+      "card-descript": "There are many variations of passages of Lorem Ipsum available,",
+      "list-service-pricing": {
+        "list-1": "Konten Feed & Story",
+        "list-2": "Reels / TikTok Video",
+        "list-3": "Dashboard Content",
+        "list-4": "Copy Writing & Hastag",
+        "list-5": "Monthly Report",
+        "list-6": "Boost Iklan Ads",
+        "list-7": "Konsultasi Design dan Marketing"
+      },
+      "hiBronze": {
+        "text": "The HiBronze package includes several benefits that you will get.",
+        "additional": {
+          "additional-1": "Facebook Ads",
+          "additional-2": "Instagram Ads"
+        }
+      },
+      "hiSilver": {
+        "text": "The HiSilver package includes several benefits that you will get.",
+        "additional": {
+          "additional-1": "Facebook Ads",
+          "additional-2": "Instagram Ads",
+          "additional-3": "WA Marketing"
+        }
+      },
+      "hiGold": {
+        "text": "The HiGold package includes several benefits that you will get.",
+        "additional": {
+          "additional-1": "Facebook Ads",
+          "additional-2": "Instagram Ads",
+          "additional-3": "WA Marketing",
+          "additional-4": "Shopee Marketing",
+          "additional-5": "Twitter Marketing"
+        }
+      },
+      "additional": "Additional"
     }
   },
   "Service": {
-    "banner": "All of our dedication is done with heart and research so that our partners achieve their company goals.",
-    "detail-service": "Because work is a dedication to a solution",
+    "banner": "Connect with Each Other with",
+    "banner-btn": {
+      "btn-text-1": "Join HiSocial Partner",
+      "btn-text-2": "Learn More",
+      "btn-text-3": "Improve Your Business With us"
+    },
+    "banner-card": {
+      "card-1": {
+        "text": "After receiving funding through the SawitPRO program, I was able to increase my yield by 50%.",
+        "name": "Ahmad Muzakhir",
+        "job": "Oil Palm Farmers"
+      },
+      "card-2": {
+        "text": "It was very informative and gave me more knowledge to improve product sales results from month to month.",
+        "name": "Moeluk Aminuddin",
+        "job": "CV. Kresna Jaya Santosa"
+      },
+      "card-3": {
+        "text": "With HiSocial Digital, it makes it easier for us to target marketing and reach more market areas.",
+        "name": "Adiyono Poetro",
+        "job": "PT Pratama Adiluhung"
+      },
+      "card-4": {
+        "text": "After joining Saw, it was very helpful because sales increased.",
+        "name": "Susono Pragiwarta",
+        "job": "PT. Tiki Jalur Nugraha Eka Kurir"
+      },
+      "card-5": {
+        "text": "Product Sales Increased"
+      }
+    },
     "service-program": {
       "title": "Service Program",
       "list-program": {
+        "list-0": "UI/UX Design",
         "list-1": "Social Media Management",
         "list-2": "Branding Indentity Visual",
-        "list-3": "Logo Branding",
-        "list-4": "Website / Application / System",
+        "list-3": "Logo & Branding Identity",
+        "list-4": "Website & System",
         "list-5": "Digital Marketing Strategy"
       },
       "service-program-detail": "Many of our design projects are dedicated to a company or individual, by helping and providing needs for them makes us understand that a design has a sense so that users feel comfortable and interested in buying it."
     },
-    "project-card": "SEE MORE"
+    "get-started": {
+      "text": "Confused about determining the program according to your company's needs?",
+      "btn-text": "Contact Admin"
+    }
   },
   "AboutUs": {
     "banner": {
-      "title": "Grow With us and Achieve The Dream of a Better Future",
+      "title": "Do New Things and Develop With us.",
       "detail": "All of our dedication is done with heart and research so that our partners achieve their company goals.",
-      "button": "Find out now"
+      "button": "Contact Us"
     },
     "vision": {
       "title": "Vision",
