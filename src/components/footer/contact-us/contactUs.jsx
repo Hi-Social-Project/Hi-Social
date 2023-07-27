@@ -1,8 +1,12 @@
-const ContactUs = ({ icons, text }) => {
+import { Link } from "react-router-dom";
+
+const ContactUs = ({ icons, text, link }) => {
   return (
-    <section className="flex mt-2 md:mt-3">
+    <section className="flex mt-2 md:mt-3 hover:text-gray-300 cursor-pointer">
       <h1 className="text-2xl hidden md:block">{icons}</h1>
-      <p className="ms-1 text-xs md:text-sm">{text}</p>
+      <Link to={link} target="_blank" className="ms-1 text-xs md:text-sm">
+        {text}
+      </Link>
     </section>
   );
 };

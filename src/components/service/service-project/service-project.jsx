@@ -10,12 +10,12 @@ const ServiceProject = ({ t }) => {
       </div>
 
       <div className="grid grid-cols-1 gap-y-20 md:gap-y-28 lg:gap-y-32 md:grid-cols-2 lg:grid-cols-3 w-full">
-        <ListProjectCard text="Eduwork.id Landing Pages" t={t} image={srv1} />
-        <ListProjectCard text="Upscale.id Landing Page" t={t} image={srv2} />
-        <ListProjectCard text="Digital Marketing School Landing Pages" t={t} image={srv3} />
-        <ListProjectCard text="Kreatif.com" t={t} image={srv4} />
-        <ListProjectCard text="Upscale.id Mobile Appliacations" t={t} image={srv2} />
-        <ListProjectCard text="Dago Vision Care Landing Pages" t={t} image={srv5} />
+        <ListProjectCard text="Eduwork.id Landing Pages" image={srv1} />
+        <ListProjectCard text="Upscale.id Landing Page" image={srv2} />
+        <ListProjectCard text="Digital Marketing School Landing Pages" image={srv3} />
+        <ListProjectCard text="Kreatif.com" image={srv4} />
+        <ListProjectCard text="Upscale.id Mobile Appliacations" image={srv2} />
+        <ListProjectCard text="Dago Vision Care Landing Pages" image={srv5} />
       </div>
     </section>
   );

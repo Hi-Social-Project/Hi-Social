@@ -25,8 +25,8 @@ function App() {
           <Route path="/service" element={<Service t={t} />} />
           <Route path="/about-us" element={<AboutUs t={t} />} />
         </Routes>
+        <Footer />
       </Router>
-      <Footer />
     </div>
   );
 }

@@ -13,7 +13,7 @@ const Navbar = ({ id, en }) => {
   let selecLang = localStorage.getItem("lang") || "id";
 
   return (
-    <div className="flex justify-between lg:justify-around py-3 shadow-xl items-center fixed w-full top-0 bg-white z-[999999] font-plus-jakarta-sans font-semibold">
+    <div className="flex justify-between lg:justify-around py-3 shadow-xl items-center fixed w-full top-0 bg-white z-[999999] font-plus-jakarta-sans">
       <img src={logo} className="cursor-pointer ms-4 lg:ms-16" />
       <div className="me-10 text-2xl border-2 border-black p-1 rounded hover:bg-gray-300 lg:opacity-0 cursor-pointer" onClick={() => handleOpen()}>
         {open === false ? <AiOutlineMenu /> : <GrClose />}
@@ -54,7 +54,7 @@ const Navbar = ({ id, en }) => {
           </li>
         </ul>
         <button type="button" className="w-32 btn-blue rounded-full text-sm mt-1 lg:text-base lg:mt-auto lg:mx-10 lg:w-auto ">
-          Contact Me
+          Contact Us
         </button>
       </div>
     </div>

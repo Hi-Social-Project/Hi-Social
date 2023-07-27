@@ -23,11 +23,9 @@ body {
 
 @layer utilities {
   .gradient-img-otherService {
-    border-radius: 20px;
     background: linear-gradient(180deg, rgba(255, 255, 255, 0.14) 0%, #012840 89.04%);
   }
-  /* .bg-about-banner {
-    background: rgb(90, 238, 255);
-    background: radial-gradient(circle, rgba(90, 238, 255, 0.8576680672268908) 0%, rgba(28, 197, 255, 0.14898459383753504) 100%);
-  } */
+  .gradient-img-about {
+    background: linear-gradient(180deg, rgba(217, 217, 217, 0) 0%, #001520 100%);
+  }
 }
