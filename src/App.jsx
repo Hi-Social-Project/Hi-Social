@@ -17,7 +17,7 @@ function App() {
   };
 
   return (
-    <div className="overflow-hidden">
+    <div className="overflow-hidden ">
       <Router>
         <Navbar id={handleId} en={handleEn} t={t} />
         <Routes>

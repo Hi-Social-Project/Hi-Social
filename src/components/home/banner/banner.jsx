@@ -23,7 +23,7 @@ const Banner = ({ t }) => {
         </div>
 
         <div className="lg:col-span-4 ">
-          <img src={bannerImage} className="md:h-[450px] md:w-full lg:h-[834px] lg:w-[794px]" />
+          <img src={bannerImage} className="md:h-[450px] md:w-full lg:h-[834px] lg:w-[794px] 2xl:w-full" />
         </div>
       </div>
 

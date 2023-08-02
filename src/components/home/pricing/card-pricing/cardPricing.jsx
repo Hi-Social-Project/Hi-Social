@@ -2,7 +2,7 @@ import { AiOutlineArrowRight } from "../../../../../node_modules/react-icons/ai"
 
 const CardPricing = ({ imgPricing, price, type, description, list, additional, t }) => {
   return (
-    <section className="flex flex-col items-center w-80 space-y-5 h-full p-2 pb-4 bg-blue-950 rounded-3xl  2xl:w-[351.246px]">
+    <section className="flex flex-col items-center w-80 space-y-5 h-full p-2 pb-4 bg-blue-950 rounded-3xl  lg:w-11/12">
       <div className="bg-white w-full py-5 px-8 shadow-lg  rounded-2xl md:w-auto h-[530px] lg:h-[574px] md:px-5 2xl:px-8">
         <div className=" space-y-1">
           <img src={imgPricing} alt="bronze" className="w-10 lg:w-12 lg:h-12" />

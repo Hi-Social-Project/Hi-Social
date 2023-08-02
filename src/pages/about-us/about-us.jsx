@@ -3,7 +3,7 @@ import { GetStarted } from "../../components/service";
 
 const AboutUs = ({ t }) => {
   return (
-    <section className="px-5 pt-28 md:pt-36 lg:pt-44">
+    <section className="max-w-[1920px] px-5 pt-28 md:pt-36 lg:pt-44">
       <div className="flex justify-center">
         <BannerAbout t={t} />
       </div>

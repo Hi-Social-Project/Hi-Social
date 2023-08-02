@@ -11,6 +11,11 @@ const ServiceProgram = ({ t }) => {
       breakpoints={{
         0: {
           slidesPerView: 2,
+          spaceBetween: 30,
+          initialSlide: 0,
+        },
+        365: {
+          slidesPerView: 2,
           spaceBetween: 0,
           initialSlide: 0,
         },
@@ -22,12 +27,12 @@ const ServiceProgram = ({ t }) => {
         1020: {
           slidesPerView: 5.3,
           spaceBetween: 290,
-          initialSlide: 2,
+          initialSlide: 1,
         },
         1300: {
           slidesPerView: 5.5,
           spaceBetween: 250,
-          initialSlide: 2,
+          initialSlide: 1,
         },
       }}
       className="mySwiper "

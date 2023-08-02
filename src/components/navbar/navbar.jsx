@@ -4,6 +4,7 @@ import { AiOutlineMenu } from "react-icons/ai";
 import { GrClose } from "react-icons/gr";
 import DropdownLang from "./dropdown-lang/dropdownLang";
 import { Link } from "react-router-dom";
+import DropdownPorto from "./dropdown-portofolio/dropdownPorto";
 
 const Navbar = ({ id, en }) => {
   const [open, setOpen] = useState(false);
@@ -36,10 +37,11 @@ const Navbar = ({ id, en }) => {
               Service
             </Link>
           </li>
-          <li className=" hover:text-gray-400">
-            <Link to="https://www.behance.net/gallery/153503615/HiSocial-Digital?tracking_source=search_projects|HiSocial" target="_blank">
-              Portofolio
-            </Link>{" "}
+          <li className=" hover:text-gray-400 group">
+            <span className="lg:px-1">Portofolio</span>
+            <div className="hidden group-hover:block">
+              <DropdownPorto />
+            </div>
           </li>
           <li className=" hover:text-gray-400">
             <Link to="about-us" onClick={() => (window.location.href = "#top")}>

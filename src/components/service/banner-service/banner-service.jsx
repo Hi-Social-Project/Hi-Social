@@ -26,9 +26,9 @@ const BannerService = ({ t }) => {
 
         <p className="w-10/12 md:text-xl lg:text-3xl lg:w-7/12"> {t("AboutUs.banner.detail")}</p>
 
-        <div className="flex justify-around text-sm lg:text-lg w-full md:w-6/12">
-          <button className="btn-blue shadow-xl rounded-xl shadow-blue-200 lg:h-14 lg:w-72">{t("Service.banner-btn.btn-text-1")}</button>
-          <button className="btn-yellow rounded-xl shadow-xl shadow-yellow-200 lg:h-14 lg:w-52">{t("Service.banner-btn.btn-text-2")}</button>
+        <div className="flex justify-around text-sm lg:text-lg w-10/12 md:w-5/12 lg:w-[34rem]">
+          <button className="btn-blue shadow-2xl rounded-xl shadow-blue-400 lg:h-14 lg:w-72">{t("Service.banner-btn.btn-text-1")}</button>
+          <button className="btn-yellow rounded-xl shadow-2xl shadow-yellow-400 lg:h-14 lg:w-52">{t("Service.banner-btn.btn-text-2")}</button>
         </div>
       </div>
 
