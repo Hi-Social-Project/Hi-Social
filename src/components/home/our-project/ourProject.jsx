@@ -8,7 +8,7 @@ const OurProject = ({ t }) => {
         <h1 className="font-medium font-clash-display text-2xl md:text-4xl lg:text-5xl">{t("Home.our-project.title")}</h1>
         <button className=" hidden btn-blue rounded-full font-medium md:block md:w-40 md:h-14 lg:w-72">{t("Home.our-project.text-button")}</button>
       </div>
-      <div>
+      <div className="space-y-3 my-4 md:space-y-0">
         <CardOurProject img={shoes} title={t("Home.our-project.brand-puma")} order="md:order-last" text={t("Home.our-project.puma")} />
 
         <CardOurProject img={fruit} title={t("Home.our-project.brand-fruit")} order="md:order-first" text={t("Home.our-project.fruit")} />

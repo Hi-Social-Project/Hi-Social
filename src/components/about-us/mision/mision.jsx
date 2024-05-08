@@ -4,8 +4,8 @@ const Mision = ({ t }) => {
   return (
     <section className="flex flex-col items-center mb-24 lg:mb-32">
       <div className="grid grid-cols-1 gap-7 justify-items-center md:w-10/12 md:gap-7 lg:gap-10 lg:grid-cols-2">
-        <div className="space-y-5 lg:space-y-12">
-          <div className="flex justify-end space-x-7 items-center mb-5">
+        <div className="space-y-5 lg:space-y-12 max-w-[473.394px]">
+          <div className="flex justify-end space-x-7 items-center mb-5 ">
             <h1 className="font-clash-display text-3xl font-medium md:text-4xl lg:text-6xl">{t("AboutUs.mision.title")}</h1>
             <div className="h-1 bg-yellow-500 w-20 lg:w-28" />
           </div>
